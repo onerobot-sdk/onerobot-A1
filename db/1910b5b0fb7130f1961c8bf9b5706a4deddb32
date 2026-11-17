@@ -1,0 +1,155 @@
+404.html
+  s_833f0c29e6d30f::t_28ac522c791436 9,12,19
+advanced/index.html
+  s_833f0c29e6d30f::t_395bf8dc0fe415 9,12,14,21,104
+api/index.html
+  s_833f0c29e6d30f::t_820865bd4b87d6 9,12,14,16,21-22
+assets/api_index.md.uo2a3I5z.js
+  s_833f0c29e6d30f::t_c299841b40bc93 1
+assets/api_index.md.uo2a3I5z.lean.js
+  s_833f0c29e6d30f::t_253a05317b368d 1
+assets/app.BFWZP7Pi.js
+  s_833f0c29e6d30f::t_a21bc012cd69a5 1
+assets/chunks/@localSearchIndexroot.Bc6JEQxp.js
+  s_833f0c29e6d30f::t_9d26688c436cf8 1
+assets/chunks/DemoDownload.DB6YN45i.js
+  s_833f0c29e6d30f::t_67d08369d9c2b1 1
+assets/chunks/DemoImage.Cm02HQf7.js
+  s_833f0c29e6d30f::t_891961a2efa639 1
+assets/chunks/VPLocalSearchBox.B99O_FPl.js
+  s_833f0c29e6d30f::t_e132f5e918e7dc 1
+assets/chunks/theme.E20YPhzd.js
+  s_833f0c29e6d30f::t_f3d4a4a88a1d6a 1-2
+assets/getting-started_assembly.md.CoT9vUA-.js
+  s_833f0c29e6d30f::t_115da2841edab6 1
+assets/getting-started_assembly.md.CoT9vUA-.lean.js
+  s_833f0c29e6d30f::t_c911321365b1c3 1
+assets/index.md.BUUQ3kKL.js
+  s_833f0c29e6d30f::t_e3e30c0cdb9c2d 1
+assets/index.md.BUUQ3kKL.lean.js
+  s_833f0c29e6d30f::t_af2a932fb6adfe 1
+assets/style.DzpGBOYv.css
+  s_833f0c29e6d30f::t_1bd9b5ecf81462 1
+assets/tools_index.md.DbVpejZG.js
+  s_833f0c29e6d30f::t_f3332847604530 1,26-27,29,37-68
+assets/tools_index.md.DbVpejZG.lean.js
+  s_833f0c29e6d30f::t_c52e96e9d8eda2 1
+assets/use-cases_gripper-tactile.md.bHty7DAs.js
+  s_833f0c29e6d30f::t_59a08b7ccbedba 1-50
+assets/use-cases_gripper-tactile.md.bHty7DAs.lean.js
+  s_833f0c29e6d30f::t_54dfecef5e78ec 1
+assets/use-cases_index.md.CXwg32Gk.js
+  s_833f0c29e6d30f::t_5d65ce9d363a4e 1
+assets/use-cases_index.md.CXwg32Gk.lean.js
+  s_833f0c29e6d30f::t_e985e88b92bac7 1
+assets/version.md.1D07qawQ.js
+  s_833f0c29e6d30f::t_cb2c51ab6d4684 1
+assets/version.md.1D07qawQ.lean.js
+  s_833f0c29e6d30f::t_7db97c1ac205c7 1
+concepts/frames.html
+  s_833f0c29e6d30f::t_8e8ba811e70062 9,12,14,21,29
+concepts/index.html
+  s_833f0c29e6d30f::t_19f497b998a0be 9,12,14,21,33
+dual-arm/index.html
+  s_833f0c29e6d30f::t_0cd2450850c0d9 9,12,14,21,39
+examples/tools/onero_gripper.py
+  s_833f0c29e6d30f::t_6729d19614f220 1-36
+examples/tools/onero_gripper_standalone.py
+  s_833f0c29e6d30f::t_dec95aae2cfec2 1-99
+examples/tools/onero_tactile.py
+  s_833f0c29e6d30f::t_e2cc3c04ff0d76 1-68
+examples/tools/onero_tactile_recalibrate.py
+  s_833f0c29e6d30f::t_2c9469c306acb5 1-62
+faq/index.html
+  s_833f0c29e6d30f::t_508e5260986709 9,12,14,21,25
+getting-started/assembly.html
+  s_833f0c29e6d30f::t_2eca442baa7c9f 9,12,14,16,18,23-24
+getting-started/debug-ui.html
+  s_833f0c29e6d30f::t_767bba410afac8 9,12,14,22,27
+getting-started/editions.html
+  s_833f0c29e6d30f::t_db394764ed8b38 9,12,14,21-22
+getting-started/hardware.html
+  s_833f0c29e6d30f::t_a34acd53249f89 9,12,14,22,35
+getting-started/index.html
+  s_833f0c29e6d30f::t_5ecb836d912f74 9,12,14,21,40
+hashmap.json
+  s_833f0c29e6d30f::t_5000f4078d29da 1
+index.html
+  s_833f0c29e6d30f::t_c13bc30cfe11ae 9,12,14,16,21-22
+integrations/index.html
+  s_833f0c29e6d30f::t_7001d4a6fba290 9,12,14,21-22
+motion/basic.html
+  s_833f0c29e6d30f::t_f3c9d05302118a 9,12,14,21,51
+motion/index.html
+  s_833f0c29e6d30f::t_854996a2e494c0 9,12,14,21-22
+motion/realtime.html
+  s_833f0c29e6d30f::t_9f1c209602b8a6 9,12,14,21,36
+safety/can.html
+  s_833f0c29e6d30f::t_a36d8087e18f2e 9,12,14,21,25
+safety/index.html
+  s_833f0c29e6d30f::t_7b980b16333ff1 9,12,14,21,25
+tools/index.html
+  s_833f0c29e6d30f::t_e29fde8970587c 9,12,14,16-17,22,47-48,50,58-90
+use-cases/basic-safety.html
+  s_833f0c29e6d30f::t_e614b6505dac32 9,12,14,22,29
+use-cases/collision-detection.html
+  s_833f0c29e6d30f::t_87cb47b2095798 9,12,14,22,31
+use-cases/dual-arm.html
+  s_833f0c29e6d30f::t_f454a379081f56 9,12,14,22,44
+use-cases/first-hardware-motion.html
+  s_833f0c29e6d30f::t_a5cd9edab2a0e3 9,12,14,21-22
+use-cases/force-calibration.html
+  s_833f0c29e6d30f::t_ded2331595fc16 9,12,14,22,35
+use-cases/freedrive.html
+  s_833f0c29e6d30f::t_350295cb72030f 9,12,14,21-22
+use-cases/gripper-tactile.html
+  s_833f0c29e6d30f::t_1cd3015f250212 1-77
+use-cases/index.html
+  s_833f0c29e6d30f::t_7229ce9f5ce2d7 9,12,14,16,21-22
+use-cases/lerobot.html
+  s_833f0c29e6d30f::t_e3ff4fd1c2696e 9,12,14,22,67
+use-cases/motion-control.html
+  s_833f0c29e6d30f::t_40511039fa99ff 9,12,14,22,49-50
+use-cases/moveit2.html
+  s_833f0c29e6d30f::t_b21adeca3a2f7d 9,12,14,22,127
+use-cases/onero-teleop.html
+  s_833f0c29e6d30f::t_f700ea19e4ac11 9,12,14,22,61
+use-cases/payload-capacity.html
+  s_833f0c29e6d30f::t_5ddead67980dcb 9,12,14,22,43
+use-cases/safe-stop.html
+  s_833f0c29e6d30f::t_74c884ed621f26 9,12,14,21-22
+use-cases/simulation.html
+  s_833f0c29e6d30f::t_01a4030322d31f 9,12,14,21-22
+use-cases/state-monitoring.html
+  s_833f0c29e6d30f::t_80ef84d501bdc4 9,12,14,21-22
+use-cases/tcp-tools.html
+  s_833f0c29e6d30f::t_74f0ad789494c6 9,12,14,21,30-31
+use-cases/tcp-waypoints.html
+  s_833f0c29e6d30f::t_b34fed71ca1ee4 9,12,14,21-22
+use-cases/tcp.html
+  s_833f0c29e6d30f::t_dddf449c94c457 9,12,14,21-22
+use-cases/teaching.html
+  s_833f0c29e6d30f::t_32d1f21be92566 9,12,14,22,36
+use-cases/tools-advanced.html
+  s_833f0c29e6d30f::t_6a58803331b98d 9,12,14,21-22
+use-cases/waypoints.html
+  s_833f0c29e6d30f::t_4f3b8bc8fc9d4f 9,12,14,22,32
+version.html
+  s_833f0c29e6d30f::t_89d33c84789252 9,12,14,16,21-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "db1910b5b0fb7130f1961c8bf9b5706a4deddb32",
+  "prompts": {},
+  "sessions": {
+    "s_833f0c29e6d30f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17762-e4a5-7721-870c-e885281fa643",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "unknown"
+    }
+  }
+}
