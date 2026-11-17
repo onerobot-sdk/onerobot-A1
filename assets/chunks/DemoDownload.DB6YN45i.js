@@ -1,0 +1,1 @@
+import{d as e,o as a,c as t,k as s,g as n,t as c,_ as r}from"./framework.2Gs1zKBA.js";const d=["href"],l=e({__name:"DemoDownload",props:{src:{},title:{}},setup(o){return(_,i)=>(a(),t("a",{class:"demo-download",href:s(n)(o.src),download:""},c(o.title),9,d))}}),p=r(l,[["__scopeId","data-v-d0a0c86d"]]);export{p as D};
